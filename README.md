@@ -1,0 +1,2 @@
+# Code-PHP-forca
+jogo-forca/ │ ├── index.php ├── jogo.php ├── ranking.php ├── admin.php ├── login.php │ ├── css/ │   └── style.css │ ├── imagens/ │   ├── forca0.png │   ├── forca1.png │   ├── forca2.png │   ├── forca3.png │   └── forca4.png │ ├── planejamento/ │   └── fases.md │ └── README.md
